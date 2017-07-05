@@ -1,0 +1,27 @@
+<group>
+	<time_cursor>1228.96</time_cursor>
+	<play_Pause>0</play_Pause>
+	<smoothing>12.45</smoothing>
+	<estimationHeight>38</estimationHeight>
+	<sizeTube>2</sizeTube>
+	<trail_To_Mesh>0</trail_To_Mesh>
+	<save_mesh>0</save_mesh>
+	<resetParticles>0</resetParticles>
+	<dampingMin>0.84776</dampingMin>
+	<dampingMax>0.934325</dampingMax>
+	<randomForce>0.26</randomForce>
+	<durationParticles>59</durationParticles>
+	<attractionStrenght>0.838</attractionStrenght>
+	<wind_frc>-3.40139, 0.890256, -1.90734</wind_frc>
+	<everyNFrames>8</everyNFrames>
+	<particlesToMesh>0</particlesToMesh>
+<group/>
+<intensityWind>4</intensityWind>
+<use_Particles>0</use_Particles>
+	<resetTrail>0</resetTrail>
+	<trickStart>969</trickStart>
+	<trickEnd>1098</trickEnd>
+	<flipDirection>2701</flipDirection>
+<rollBegin>580</rollBegin>
+	<rollEnd>1336</rollEnd>
+</group>

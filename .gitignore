@@ -45,3 +45,20 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+/bin/data/3d
+*.dll
+/bin/data/logs
+*.tlog
+*.user
+skateTracker.VC.VC.opendb
+*.db
+*.pdb
+*.obj
+*.log
+*.cache
+*.exe
+*.lib
+*.res
+*.exp
+bin/skateTrackerDoubleManual_debug.ilk
